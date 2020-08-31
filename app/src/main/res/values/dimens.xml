@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="textview_contacDetail_title">24dp</dimen>
+    <dimen name="textview_marginRight_label">8dp</dimen>
+
+    <dimen name="linearlayout_marginTop">8dp</dimen>
+
+    <dimen name="button_marginTop">32dp</dimen>
+    <dimen name="button_paddingLeft">32dp</dimen>
+    <dimen name="button_paddingRight">32dp</dimen>
+</resources>
